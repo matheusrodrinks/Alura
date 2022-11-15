@@ -1,11 +1,25 @@
+body {
+ 
+    background: #cccccc;
+}
+#banner{
+    width:100%;
+    height: 400px;
+    
+
+}
+
+h1{
+text-align: center
+}
+
 p {
     text-align: center;
     
 }
+#missao {
+    font-size: 20px;
 
-body {
- 
-    background: #cccccc;
 }
 
 em strong{
