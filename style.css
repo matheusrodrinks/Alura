@@ -1,15 +1,29 @@
+header{
+
+
+}
+
 body {
  
-    background: #cccccc;
+    
 }
-#banner{
+#barbearia{
     width:100%;
     height: 400px;
     
+}
+
+.principal{
+    background: #6b66666f;
+    padding: 30px;
 
 }
 
-h1{
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado{
 text-align: center
 }
 
@@ -23,6 +37,28 @@ p {
 }
 
 em strong{
-    color: red;
+    color: #ff0000;
 }
 
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background: #ffffff;
+    padding: 20px;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imagembeneficios{
+    width: 50%;
+    position: 
+   
+}
